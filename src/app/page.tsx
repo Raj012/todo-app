@@ -197,7 +197,7 @@ export default function Home() {
         {/* ── Header ── */}
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-zinc-900 dark:text-white">My Tasks</h1>
+            <h1 className="text-2xl font-bold text-zinc-900 dark:text-white">Raja Kumari's Tasks</h1>
             <p className="text-sm text-zinc-500 dark:text-zinc-400">
               {new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}
             </p>
